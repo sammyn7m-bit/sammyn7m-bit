@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Sammy
 
-<!--
-**sammyn7m-bit/sammyn7m-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Python & Django Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications and REST APIs while improving my software development skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on
+
+- Django and Django REST Framework projects
+- Backend APIs
+- PostgreSQL-backed applications
+- Authentication and authorization
+- Exploring API security
+
+Tech I use
+
+Primary
+
+Python · Django · Django REST Framework · PostgreSQL · Git · GitHub
+
+Backend
+
+Redis · JWT · REST APIs
+
+Currently learning
+
+- C++ and Object-Oriented Programming
+- JavaScript
+- HTML & CSS
+- Bootstrap
+
+Featured Projects
+
+Secure Auth API
+A Django REST Framework project exploring authentication, JWT, MFA/TOTP, rate limiting, and other API security practices.
+
+Inventory & Sales Management System
+A Django application for managing inventory and sales.
+
+Expense Tracker API
+A REST API for managing personal expenses.
+
+Currently building
+
+I'm focused on becoming a stronger backend developer by building practical projects, learning from open-source software, and improving my understanding of software development.

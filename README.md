@@ -1,20 +1,20 @@
-Hi, I'm Sammy
+Hi, I'm Sammy 👋
 
-Computer Science student | Python & Django Backend Developer
+Backend Developer | Python · Django · REST APIs
 
-I build backend applications and REST APIs while improving my software development skills through practical projects.
+I build backend applications and REST APIs while continuously improving my software development and problem-solving skills through practical projects.
 
-What I'm working on
+What I'm Working On
 
-- Django and Django REST Framework projects
-- Backend APIs
-- PostgreSQL-backed applications
-- Authentication and authorization
-- Exploring API security
+- Building Python applications using Object-Oriented Programming.
+- Developing backend applications with Django and Django REST Framework.
+- Working with relational databases and PostgreSQL.
+- Exploring authentication, authorization, and API security.
+- Improving software design, testing, and code quality.
 
-Tech I use
+Tech Stack
 
-Primary
+Primary Technologies
 
 Python · Django · Django REST Framework · PostgreSQL · Git · GitHub
 
@@ -22,24 +22,30 @@ Backend
 
 Redis · JWT · REST APIs
 
-Currently learning
+Web Fundamentals
 
-- C++ and Object-Oriented Programming
-- JavaScript
-- HTML & CSS
-- Bootstrap
+HTML · CSS
 
 Featured Projects
 
+Library Management System
+
+A Python application focused on Object-Oriented Programming, modular design, book management, borrowing operations, CSV importing, and automated testing. Currently under development.
+
 Secure Auth API
-A Django REST Framework project exploring authentication, JWT, MFA/TOTP, rate limiting, and other API security practices.
+
+A Django REST Framework project exploring authentication, JWT, MFA/TOTP, rate limiting, and API security practices.
 
 Inventory & Sales Management System
-A Django application for managing inventory and sales.
+
+A Django application for managing inventory and sales operations.
 
 Expense Tracker API
-A REST API for managing personal expenses.
 
-Currently building
+A REST API project for managing personal expenses.
 
-I'm focused on becoming a stronger backend developer by building practical projects, learning from open-source software, and improving my understanding of software development.
+Current Focus
+
+I'm focused on strengthening my Python fundamentals, improving my understanding of software engineering principles, and building practical backend applications with Django.
+
+I believe in learning by building, testing, improving, and understanding how software works beyond simply making it run.

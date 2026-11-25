@@ -17,13 +17,13 @@
 * **[Inventory & Sales System](https://github.com/sammyn7m-bit/django-inventory-sales-system)** ([Live Demo](https://django-inventory-sales-system-8lkt.onrender.com/)) — Full-featured Django application for tracking suppliers, products, stock movements, customers, and order fulfillment.
 * **[OOP Library System](https://github.com/sammyn7m-bit/library-system-python)** — Object-oriented Python application demonstrating custom exception handling, CSV catalog imports, and automated unit tests.
 
-### [🌱 Current Focus & Goals](https://github.com/sammyn7m-bit)
+### 🌱 Current Focus & Goals.
 
 * Deepening expertise in **API security**, **database optimization**, and **system design**.
 * Actively building hands-on backend projects and refining software testing practices.
 * Open to **junior backend developer roles**, **internships**, and **collaborative Python/Django projects**.
 
-### [📫 Connect With Me](https://www.linkedin.com/in/sammy-njuguna)
+### 📫 Connect With Me.
 
 * **LinkedIn:** [linkedin.com/in/sammy-njuguna](/url?sa=i&source=web&rct=j&url=https://www.linkedin.com/in/sammy-njuguna&ved=2ahUKEwj-n7qA_J6YAxXn9bsIHaHmF_sQy_kOegYIAggVEEQ&opi=89978449&cd&psig=AOvVaw2ULRzF_IR2qZfeKhErXP2m&ust=1795553455712000)
 * **Email:** [sammy.njuguna.dev@gmail.com](mailto:sammy.njuguna.dev@gmail.com)

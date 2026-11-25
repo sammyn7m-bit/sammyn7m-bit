@@ -2,7 +2,7 @@
 
 **Python & Django Backend Developer** focused on building secure, scalable APIs and data-driven web applications. I enjoy solving real-world engineering problems—from authentication and access control to inventory and financial modeling—with clean, tested code. 
 
-#### [🛠️ Tech Stack & Tools]
+## 🛠️ Tech Stack & Tools
 
 * **Languages:** Python, SQL, HTML5/CSS3
 * **Frameworks:** Django, Django REST Framework (DRF)
